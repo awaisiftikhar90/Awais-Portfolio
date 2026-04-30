@@ -52,8 +52,13 @@ However:
 Any usage, extraction, or redistribution of that avatar from my live website is strictly prohibited.
 
 ---
+<img width="2854" height="1433" alt="Screenshot 2026-04-30 020208" src="https://github.com/user-attachments/assets/df19e3b7-b8a1-4515-8748-5972237329cc" />
+<img width="2818" height="1416" alt="Screenshot 2026-04-30 020153" src="https://github.com/user-attachments/assets/63ed5e09-4181-4335-aeed-ec64ecaddf7a" />
+<img width="2843" height="1429" alt="Screenshot 2026-04-30 020135" src="https://github.com/user-attachments/assets/e7d5ae74-905d-4259-8939-84ed7d1e0eae" />
+<img width="2850" height="1436" alt="Screenshot 2026-04-30 020123" src="https://github.com/user-attachments/assets/fda2d63c-473a-46fe-b6b7-5c6f81c384c9" />
 
-![Protfolio-Preview] ()
+
+
 
 ---
 
